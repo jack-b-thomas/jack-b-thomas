@@ -1,5 +1,5 @@
 <h2> Hello There! Welcome to my page! </h2>
-<p> I am Jack Thomas, a sophomore at the <b>University of Notre Dame </b> originally from <img src="https://cdn.countryflags.com/thumbs/maryland/flag-round-250.png" width="13"/> <b>Maryland. </b> I am currently majoring in the Program of Liberal Studies, with minors in Data Science and French. </p>
+<p> I am Jack Thomas, a sophomore at the <b>University of Notre Dame </b> originally from <img src="https://cdn.countryflags.com/thumbs/maryland/flag-round-250.png" width="13"/> <b>Maryland. </b> I am majoring in the Program of Liberal Studies, with minors in Data Science and French. </p>
 <h3> Languages and Tools: </h3>
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
