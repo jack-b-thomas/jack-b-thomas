@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 </p>
 <h3> Connect with me: </h3>
-<p> <a href="https://www.linkedin.com/in/jack-thomas-645a712a8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/jack-b-thomas" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a> <a href="https://www.strava.com/dashboard" target="blank"><img alt="Strava" src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a> 
+<p> <a href="https://www.linkedin.com/in/jack-thomas-645a712a8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/jack-b-thomas" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a> <a href="https://www.strava.com/athletes/100368999" target="blank"><img alt="Strava" src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a> 
 </p>
